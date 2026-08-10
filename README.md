@@ -15,4 +15,4 @@ A marketplace that makes shipping to and from Iceland simple — customers post 
 React · TypeScript · Supabase · Vercel · n8n
 
 ## Source
-Application source is **private**. The product is live and verifiable at [flyt.is](https://flyt.is).
+Application source: [`is-move-magic`](https://github.com/kamiljan11/is-move-magic) — proprietary; access may be restricted. The product is live and verifiable at [flyt.is](https://flyt.is).
