@@ -1,6 +1,6 @@
-# Flyt — Iceland Freight & Group-Import Marketplace (write-up)
-
 **Status: prototype (2026-08) — not maintained**
+
+# Flyt — Iceland Freight & Group-Import Marketplace (write-up)
 
 This repository holds no application code — it is a public write-up describing Flyt, a
 marketplace for shipping to and from Iceland (carrier bidding, pooled container campaigns,
