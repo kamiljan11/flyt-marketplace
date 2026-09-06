@@ -1,4 +1,4 @@
-**Status: prototype (2026-08) — not maintained**
+**Project write-up** — this repo holds the write-up only; the live product runs at [flyt.is](https://flyt.is) (source in a private repo).
 
 # Flyt — Iceland Freight & Group-Import Marketplace (write-up)
 
